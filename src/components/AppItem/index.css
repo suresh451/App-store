@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.app-img {
+  height: 50px;
+  width: 50px;
+}
+.div-space {
+  padding: 10px;
+}
+
+.list-item-app {
+  list-style-type: none;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}

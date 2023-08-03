@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.tab-color {
+  color: #7b8794;
+}
+.list-item {
+  list-style-type: none;
+  padding: 10px;
+  margin: 10px;
+}

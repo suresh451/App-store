@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.ul-list-tabs {
+  display: flex;
+  flex-direction: row;
+}
+.ul-apps {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.main-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+}
+
+.search-img {
+  height: 20px;
+  width: 20px;
+}
